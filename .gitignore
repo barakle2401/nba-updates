@@ -1,0 +1,7 @@
+node_modules
+dist
+# exclude IDE
+.idea/**
+# local env files
+.env.local
+.env.*.local
