@@ -1,7 +1,8 @@
 {
-  "name": "rbz",
+  "name": "nba-updates",
   "version": "1.0.0",
   "type": "module",
+  "bin": "index.js",
   "dependencies": {
     "axios": "^0.27.2",
     "cfonts": "^3.1.0",
@@ -14,5 +15,20 @@
   },
   "devDependencies": {
     "prettier": "2.7.1"
-  }
+  },
+  "description": "get nba games by date ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barakle2401/nba-updates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barakle2401/nba-updates/issues"
+  },
+  "homepage": "https://github.com/barakle2401/nba-updates#readme"
 }

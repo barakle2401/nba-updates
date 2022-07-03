@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import NbaDaily from "./nbaDaily.js";
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
